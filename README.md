@@ -13,3 +13,13 @@ audio files using the Kaggle dataset named spoken language identification. These
 split into training and test sets. The proposed system identifies the gender of the speaker and translate
 
 of the identified language into English.
+
+Tools and Technologies:
+Deep Learning
+CNN 
+Keras
+Tensorflow
+
+
+
+
